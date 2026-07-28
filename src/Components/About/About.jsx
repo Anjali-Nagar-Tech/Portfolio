@@ -14,8 +14,8 @@ const  About = () => {
                     <div className='flex gap-3 py-4'>
                         <IoArrowForward size={30} className='mt-1'/>
                         <span className='w-96'>
-                            <h1 className='text-xl md:text-2xl font-semibold leading-normal'>React Developer</h1>
-                            <p className='text-sm md:text-md leading-tight'>Develop component-based single-page applications using React, focusing on clean code and reusability. </p>
+                            <h1 className='text-xl md:text-2xl font-semibold leading-normal'>MERN Stack Developer</h1>
+                            <p className='text-sm md:text-md leading-tight'>Develop end-to-end web applications, integrating responsive frontends with robust backend APIs and databases.</p>
                         </span>
                     </div>
 
